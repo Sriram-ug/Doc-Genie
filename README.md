@@ -16,7 +16,7 @@ DocGenie is an AI-powered tool that analyzes Python functions and automatically 
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Sriram-ug/Doc-Genie.git
 
 Install dependencies:
 
